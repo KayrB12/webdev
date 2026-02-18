@@ -1,0 +1,22 @@
+body{
+    background-color:#e8c3f0;
+    color: #fdf7f7;
+}
+h1{
+text-align: center;
+color:#b07dc0
+}
+
+h2{
+    color:#46a58f;
+    font-style:italic
+}
+
+.class{
+    color:#b07dc0
+
+}
+
+#id{
+    color:#62cc97
+}
