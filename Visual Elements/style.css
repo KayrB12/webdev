@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(247, 214, 144);
+}
+
+alt {
+    color: rgb(71, 49, 19);
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color: rgb(71, 49, 19);
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+iframe {
+    background-color: rgb(100, 70, 27);
+    padding: 1%;
+}
+
+audio {
+    background-color: rgb(100, 70, 27);
+    padding: .5%;
+    margin-left: 20px;
+
+
+}
+
+video {
+
+    background-color: rgb(100, 70, 27);
+    padding: .5%;
+    margin-left: 20px;
+    border: 5px;
+}
